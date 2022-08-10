@@ -1,2 +1,2 @@
-# Telegram-template-bot
-Initial Bot Telegram Template
+# Telegram-sber-fake-translation
+All the material is intended for familiarization, for the purpose of security, because "warned means armed."

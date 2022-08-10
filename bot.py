@@ -5,7 +5,7 @@ from handlers import client
 
 
 async def on_startup(_):
-    print('bot online!')
+    print('Бот вышел в онлайн')
 
 client.register_handlers_client(dp)
 
